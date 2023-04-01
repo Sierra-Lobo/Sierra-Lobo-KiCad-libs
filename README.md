@@ -18,10 +18,10 @@
    
    Library Path : `${KICAD7_SLI_LIBS}/symbols/SierraLobo.kicad_sym`
    
-4. Under *Preferences* ribbon, select *Manage Footprint Libraries*
-5. Add a **global** footprint library
+6. Under *Preferences* ribbon, select *Manage Footprint Libraries*
+7. Add a **global** footprint library
 
    Nickname   : `SierraLobo`
 
-   Library Path : `${KICAD7_SLI_LIBS}/symbols/SierraLobo.kicad_sym`
+   Library Path : `${KICAD7_SLI_LIBS}/footprints/SierraLobo.pretty`
 
