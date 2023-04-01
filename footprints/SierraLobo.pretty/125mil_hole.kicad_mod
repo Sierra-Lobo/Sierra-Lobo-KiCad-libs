@@ -1,0 +1,14 @@
+(footprint "125mil_hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (fp_text reference "REF**" (at 0 3.8) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 03abf1f3-ac2b-4128-ba25-dacbcc6bbbd8)
+  )
+  (fp_text value "VAL**" (at 0 0) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 26169503-7631-407e-a0b2-ec3194a3662e)
+  )
+  (pad "1" thru_hole circle (at 0 0 180) (size 5.08 5.08) (drill 3.175) (layers "*.Cu" "*.Mask")
+    (zone_connect 0) (tstamp 58ec62b4-ff6c-4f60-b6cb-e03a43b88c38))
+)
