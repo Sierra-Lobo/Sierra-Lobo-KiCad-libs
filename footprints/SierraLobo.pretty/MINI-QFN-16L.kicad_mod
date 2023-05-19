@@ -87,4 +87,9 @@
     (thermal_bridge_angle 45) (tstamp 5a4fe957-65a8-4ef4-bb9c-1a1a65ebb374))
   (pad "16" smd rect (at -0.6 -1.2435 90) (size 0.513 0.225) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 0a07d5f0-3df8-45d3-a8df-cbbd05e61c31))
+  (model ":KICAD7_SLI_LIBS:3dmodels/MINI-QFN-16L.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

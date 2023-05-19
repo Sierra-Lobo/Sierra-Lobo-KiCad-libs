@@ -45,4 +45,9 @@
     (zone_connect 0) (tstamp bf4e2dfe-6d67-4b1a-ab6f-9b427769584f))
   (pad "6" smd rect (at 3.826 -2.8 180) (size 1.5 1.905) (layers "F.Cu" "F.Mask")
     (zone_connect 0) (tstamp 99656865-91d2-4657-9e55-ddffa893498f))
+  (model ":KICAD7_SLI_LIBS:3dmodels/ZX62-AB-5PA.stp"
+    (offset (xyz 3.4 5.7 0.3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

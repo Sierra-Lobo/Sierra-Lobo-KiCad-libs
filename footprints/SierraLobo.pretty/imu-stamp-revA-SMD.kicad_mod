@@ -51,8 +51,8 @@
     (thermal_bridge_angle 45) (tstamp 762cb5a9-1f9f-436b-a9ea-9e0775913a8c))
   (pad "10" smd rect (at 9.271 -2.54) (size 1.778 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 6bfa506f-ff5b-407b-a12b-2db49ecb510c))
-  (model "${KIPRJMOD}/lib-footprints/mainboard-SLI.pretty/imu-stamp.step"
-    (offset (xyz -124.206 64.643 0))
+  (model ":KICAD7_SLI_LIBS:3dmodels/imu-stamp_revA.step"
+    (offset (xyz -124.2 64.65 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

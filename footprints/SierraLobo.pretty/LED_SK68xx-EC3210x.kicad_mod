@@ -37,10 +37,6 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 4a6e458d-5279-49cc-ac45-291fcffa6f03))
   (fp_line (start -1.4 0.5) (end 1.4 0.5)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 69614c3f-e8b6-4f90-a565-8725086747fe))
-  (fp_line (start -1 0.5) (end -1 -0.5)
-    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 7fcf1d2b-82ea-4b30-bbad-40746d84ea45))
-  (fp_line (start 1 0.5) (end 1 -0.5)
-    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b332f687-9719-4cc0-8d0c-94bbf6846d06))
   (fp_line (start 1.6 0.3) (end 1.6 -0.3)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 133b7186-cbb2-4c9f-8323-b5c3a650700c))
   (fp_arc (start -1.6 0.3) (mid -1.458579 0.358579) (end -1.4 0.5)
@@ -55,8 +51,8 @@
   (pad "2" smd roundrect (at -1.3875 0.325) (size 0.625 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0f5d3f47-c7a6-46c7-9332-fc64c2adf50c))
   (pad "3" smd roundrect (at 1.3875 0.325) (size 0.625 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c273aae3-353e-41dd-b392-4fbb7cb195f3))
   (pad "4" smd roundrect (at 1.3875 -0.325) (size 0.625 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9f3795be-0695-490d-ab34-4a11eeb3edbe))
-  (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_NeoPixel_SK68xx-EC3210x.wrl"
-    (offset (xyz 0 0 0))
+  (model ":KICAD7_SLI_LIBS:3dmodels/sk68xx-ec3210F.stp"
+    (offset (xyz 0 -0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

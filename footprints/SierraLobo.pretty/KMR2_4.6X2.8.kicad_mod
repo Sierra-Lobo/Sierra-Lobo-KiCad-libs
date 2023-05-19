@@ -56,4 +56,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model ":KICAD7_SLI_LIBS:3dmodels/KMR231NGLFS.STEP"
+    (offset (xyz 0 0 1.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

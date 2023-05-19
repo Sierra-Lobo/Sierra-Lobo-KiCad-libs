@@ -67,9 +67,9 @@
     (solder_mask_margin 0.0635) (tstamp 8e88d5e9-0824-4c39-b09f-8d8d85fe8e5a))
   (pad "14" thru_hole circle (at -7.62 0.5842) (size 2.0066 2.0066) (drill 1.2954) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.0635) (tstamp 9365b467-358a-4f47-b19a-2c381f93aafd))
-  (model "D:/Users/Max5TB/Documents/OneDrive - Leland Stanford Junior University/Research/KiCAD_Libraries/3d/PE014006.step"
-    (offset (xyz -3.8 8.5 0))
+  (model ":KICAD7_SLI_LIBS:3dmodels/PE014006.stp"
+    (offset (xyz -3.75 8.35 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 -90))
+    (rotate (xyz 0 -180 -90))
   )
 )

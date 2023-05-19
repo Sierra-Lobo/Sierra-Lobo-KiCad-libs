@@ -263,4 +263,9 @@
   (pad "12" smd roundrect (at 0.525 -1.4) (size 0.85 0.7) (layers "F.Cu") (roundrect_rratio 0.02) (tstamp ce5d007e-6c79-44d3-9149-6fc00bfc21fe))
   (pad "14" smd roundrect (at -0.225 -1.4) (size 0.25 0.6) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.01) (tstamp 8119537b-d63a-42a5-95c0-130b50ca475f))
   (pad "15" smd roundrect (at -0.725 -1.4) (size 0.25 0.6) (layers "F.Cu" "F.Paste") (roundrect_rratio 0.01) (tstamp ed9ac8bf-2f4b-4af0-bd57-8c84acddbb29))
+  (model ":KICAD7_SLI_LIBS:3dmodels/TPS630701RNMR.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

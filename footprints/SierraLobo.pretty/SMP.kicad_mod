@@ -39,4 +39,9 @@
     (thermal_bridge_angle 45) (tstamp 5f538346-c97a-40fa-bae3-3777f5bd1cf3))
   (pad "2" smd rect (at 1.686 0) (size 0.828 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp cc9747af-088a-4ce7-9070-79523971359f))
+  (model ":KICAD7_SLI_LIBS:3dmodels/D_SMP.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
