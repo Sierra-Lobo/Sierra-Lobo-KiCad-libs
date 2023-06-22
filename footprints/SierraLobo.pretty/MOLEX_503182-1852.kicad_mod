@@ -25,51 +25,6 @@
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp c92bb2b6-ec86-40a2-8abd-d781276f841f))
   (fp_line (start 8 7.25) (end 8 -8.5)
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp 98fb885d-4fc4-4def-a147-10208dd650e8))
-  (fp_poly
-    (pts
-      (xy -3.66539 2.68629)
-      (xy 5.55 2.68629)
-      (xy 5.55 -0.725)
-      (xy -3.66539 -0.725)
-    )
-
-    (stroke (width 0) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp b2b27b2b-280c-498a-8444-92d13ae647cd))
-  (fp_poly
-    (pts
-      (xy -3.6629 -0.727562)
-      (xy 5.55 -0.727562)
-      (xy 5.55 -5.485)
-      (xy -3.6629 -5.485)
-    )
-
-    (stroke (width 0) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp 0cbeb66d-17d9-44c8-8487-0359d59cec36))
-  (fp_poly
-    (pts
-      (xy -3.661618 -0.727309)
-      (xy 5.55 -0.727309)
-      (xy 5.55 -5.485)
-      (xy -3.661618 -5.485)
-    )
-
-    (stroke (width 0) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp c3587b6c-d04a-4c9c-b868-42d6083f2684))
-  (fp_poly
-    (pts
-      (xy -3.66045 -0.727075)
-      (xy 5.55 -0.727075)
-      (xy 5.55 -5.485)
-      (xy -3.66045 -5.485)
-    )
-
-    (stroke (width 0) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp e87310f7-6767-4be6-8238-e3828dc0cc8d))
-  (fp_poly
-    (pts
-      (xy 7.09449 4.189459)
-      (xy 7.47 4.189459)
-      (xy 7.47 1.775)
-      (xy 7.09449 1.775)
-    )
-
-    (stroke (width 0) (type solid)) (fill solid) (layer "Dwgs.User") (tstamp aaae6e1d-abed-46e7-b1f3-eb20589b6933))
   (fp_line (start -7.07 -8.225) (end 7.07 -8.225)
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp d760c055-f852-4fb5-872a-8c44d3517320))
   (fp_line (start -7.07 6.725) (end -7.07 -8.225)
@@ -78,6 +33,15 @@
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp 0142f6c7-c2ef-4cc7-93f7-3261d404c84e))
   (fp_line (start 7.07 6.725) (end -7.07 6.725)
     (stroke (width 0.127) (type solid)) (layer "F.Fab") (tstamp de0b57d5-8016-4748-a154-9ec63a5921c6))
+  (fp_poly
+    (pts
+      (xy 7.09449 4.189459)
+      (xy 7.47 4.189459)
+      (xy 7.47 1.775)
+      (xy 7.09449 1.775)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.Fab") (tstamp aaae6e1d-abed-46e7-b1f3-eb20589b6933))
   (pad "1" smd rect (at -2.9 -6.355) (size 0.8 1.24) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0635) (tstamp 5553e15b-98fe-45c9-9560-95fec7595d4c))
   (pad "2" smd rect (at -1.8 -6.355) (size 0.8 1.24) (layers "F.Cu" "F.Paste" "F.Mask")

@@ -10,5 +10,5 @@
     (tstamp 26169503-7631-407e-a0b2-ec3194a3662e)
   )
   (pad "1" thru_hole circle (at 0 0 180) (size 5.08 5.08) (drill 3.175) (layers "*.Cu" "*.Mask")
-    (zone_connect 0) (tstamp 58ec62b4-ff6c-4f60-b6cb-e03a43b88c38))
+    (clearance 0.762) (zone_connect 0) (tstamp 58ec62b4-ff6c-4f60-b6cb-e03a43b88c38))
 )
