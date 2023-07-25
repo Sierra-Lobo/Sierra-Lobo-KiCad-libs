@@ -1,6 +1,6 @@
 (footprint "SAMTEC_T1M-10-F-SV-L" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -4.025 -3.875) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fc20ca38-f7fc-46dc-83a4-47e46ae9f3e3)
