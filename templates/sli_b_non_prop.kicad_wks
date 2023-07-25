@@ -21,7 +21,7 @@
   (tbtext "SHEET ${#} OF ${##}" (name "") (pos 17 4) (font (face "Arial") (size 1.5 1.5)) (justify center) (comment "Sheet id")
 )
   (line (name "") (start 110 30) (end 2 30))
-  (tbtext "${TITLE}" (name "") (pos 54 24.78) (font (face "Arial") (size 5 5)) (justify center))
+  (tbtext "${TITLE}" (name "") (pos 54 24.78) (font (face "Arial") (size 3 3)) (justify center))
   (tbtext "${FILENAME}" (name "") (pos 77.5 3.8) (font (face "Arial") (size 1.5 1.5)) (justify center))
   (tbtext "TECHNOLOGY DEVELOPMENT & ENGINEERING CENTER EAST" (name "") (pos 43.5 39) (font (face "Arial") (size 1.8 1.8) bold) (justify center))
   (tbtext "11401 HOOVER ROAD, MILAN, OHIO 44846" (name "") (pos 43.5 35.77) (font (face "Arial") (size 1.5 1.5)) (justify center) (comment "Address")
