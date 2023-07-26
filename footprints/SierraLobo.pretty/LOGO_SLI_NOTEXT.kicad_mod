@@ -1,6 +1,6 @@
 (footprint "LOGO_SLI_NOTEXT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp 1cc82b94-e5f0-472e-a19c-aa166981e99b)

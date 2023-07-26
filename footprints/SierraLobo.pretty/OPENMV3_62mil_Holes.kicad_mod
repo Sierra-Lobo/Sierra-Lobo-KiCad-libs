@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (property "Sheetfile" "Foras Promineo PAB PCB.kicad_sch")
   (property "Sheetname" "")
-  (attr through_hole)
+  (attr through_hole exclude_from_pos_files allow_missing_courtyard)
   (fp_text reference "U1" (at -15.13 3.6) (layer "Cmts.User") hide
       (effects (font (size 1.2065 1.2065) (thickness 0.127)) (justify left bottom))
     (tstamp 9f259ce8-62c6-4358-94af-89b464e1a3b9)
@@ -115,8 +115,8 @@
     (solder_mask_margin 0.0762) (tstamp a064b71b-0eab-4c6e-b7d0-634b6ef3a390))
   (pad "MH" thru_hole circle (at -29.464 0) (size 5 5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 5cad2588-6683-4bac-967c-cf17b8238fe1))
   (pad "MH" thru_hole circle (at 0 0 270) (size 5 5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp c690c25e-f25d-4de7-a9ec-7fb249bc4325))
-  (model "${SLIGITHUB_LOCAL}/3D Models/openMV.step"
-    (offset (xyz -32.5 -41.5 2.54))
+  (model ":KICAD7_SLI_LIBS:3dmodels/openMV.step"
+    (offset (xyz -32.5 -41.35 5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
