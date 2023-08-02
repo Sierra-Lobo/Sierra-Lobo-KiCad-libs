@@ -1,0 +1,13 @@
+(footprint "0.8MM_NP_HOLE" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (fp_text reference "REF**" (at 0.0508 -1.3716 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9b341d0d-a566-494e-9992-b55027cf4044)
+  )
+  (fp_text value "0.8MM_NP_HOLE" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b6049450-f12f-4eca-adfb-237ec3a8e84f)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.8) (layers "F&B.Cu" "*.Mask") (tstamp 5d2f3ae9-e953-4b8b-8ec2-7e1e969f3fae))
+)
